@@ -121,7 +121,8 @@ Part D:
 
 # 📊 Clustering Dashboard
 
-![Clustering Dashboard](week6_dashboard.png)
+<img width="2400" height="2700" alt="week6_dashboard" src="https://github.com/user-attachments/assets/485e64b9-1807-4fcb-90d2-d14623a92648" />
+
 
 ---
 
